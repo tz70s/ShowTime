@@ -4,3 +4,9 @@
 ```Perl
 perl showtime.pl
 ```
+
+* Build Enviroment
+```
+Mac OSX
+#However , It seems to be wrong result while running on other platform 
+```
